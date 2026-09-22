@@ -40,6 +40,15 @@ streamlit run dashboard.py
 - Gráfico de actividad por fecha
 - Tabla de deals ordenada por fecha
 
+## Actualización de datos
+
+La versión desplegada en Streamlit Cloud obtiene datos frescos de SEC EDGAR 
+automáticamente cada vez que se abre el dashboard.
+
+Si ejecutas el proyecto en local, actualiza los datos manualmente con:
+
+    python scraper.py
+
 ## Posibles mejoras futuras
 
 - Añadir formularios SC 13D y SC TO-T además de los 8-K
