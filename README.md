@@ -1,5 +1,7 @@
 # M&A Deal Explorer
 
+🔗 Demo en vivo: https://ma-dashboard-2.streamlit.app/
+
 Dashboard interactivo que extrae y visualiza operaciones de fusiones y adquisiciones (M&A) de empresas cotizadas en Estados Unidos, usando datos públicos de la SEC (Securities and Exchange Commission).
 
 ## ¿Qué problema resuelve?
